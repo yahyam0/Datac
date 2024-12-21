@@ -1,129 +1,129 @@
-area,category,percentage
-Barking and Dagenham,own,15.1
-Barking and Dagenham,mortgage,29
-Barking and Dagenham,social rent,31.5
-Barking and Dagenham,private rent,24.4
-Barnet,own,26.2
-Barnet,mortgage,27.5
-Barnet,social rent,13.5
-Barnet,private rent,32.8
-Bexley,own,32.7
-Bexley,mortgage,37.2
-Bexley,social rent,14.7
-Bexley,private rent,15.4
-Brent,own,20.2
-Brent,mortgage,20.2
-Brent,social rent,23.5
-Brent,private rent,36.2
-Bromley,own,33
-Bromley,mortgage,36.4
-Bromley,social rent,13.2
-Bromley,private rent,17.5
-Camden,own,15.9
-Camden,mortgage,14.5
-Camden,social rent,33.7
-Camden,private rent,35.9
-Croydon,own,24.2
-Croydon,mortgage,31.9
-Croydon,social rent,17.9
-Croydon,private rent,26
-Ealing,own,22.7
-Ealing,mortgage,25.6
-Ealing,social rent,17.5
-Ealing,private rent,34.3
-Enfield,own,26.2
-Enfield,mortgage,27.2
-Enfield,social rent,17
-Enfield,private rent,29.5
-Greenwich,own,16.2
-Greenwich,mortgage,27.1
-Greenwich,social rent,31
-Greenwich,private rent,25.7
-Hackney,own,9.7
-Hackney,mortgage,17.4
-Hackney,social rent,40.5
-Hackney,private rent,32.4
-Hammersmith and Fulham,own,15.4
-Hammersmith and Fulham,mortgage,18.2
-Hammersmith and Fulham,social rent,29.8
-Hammersmith and Fulham,private rent,36.6
-Haringey,own,17.3
-Haringey,mortgage,21.6
-Haringey,social rent,25.2
-Haringey,private rent,35.9
-Harrow,own,30.1
-Harrow,mortgage,29.8
-Harrow,social rent,10.4
-Harrow,private rent,29.7
-Havering,own,34.5
-Havering,mortgage,36
-Havering,social rent,13.6
-Havering,private rent,15.9
-Hillingdon,own,26.5
-Hillingdon,mortgage,31.3
-Hillingdon,social rent,16.1
-Hillingdon,private rent,26
-Hounslow,own,21.1
-Hounslow,mortgage,26.7
-Hounslow,social rent,21
-Hounslow,private rent,31.2
-Islington,own,11.6
-Islington,mortgage,16.8
-Islington,social rent,40.2
-Islington,private rent,31.5
-Kensington and Chelsea,own,19.9
-Kensington and Chelsea,mortgage,12.8
-Kensington and Chelsea,social rent,27.6
-Kensington and Chelsea,private rent,39.8
-Kingston upon Thames,own,28.2
-Kingston upon Thames,mortgage,33.3
-Kingston upon Thames,social rent,11
-Kingston upon Thames,private rent,27.4
-Lambeth,own,12
-Lambeth,mortgage,22.8
-Lambeth,social rent,33.6
-Lambeth,private rent,31.6
-Lewisham,own,15.4
-Lewisham,mortgage,28
-Lewisham,social rent,29.2
-Lewisham,private rent,27.3
-Merton,own,25.3
-Merton,mortgage,31.4
-Merton,social rent,14.2
-Merton,private rent,29.1
-Newham,own,12.7
-Newham,mortgage,20.5
-Newham,social rent,28
-Newham,private rent,38.8
-Redbridge,own,27
-Redbridge,mortgage,31.1
-Redbridge,social rent,11.3
-Redbridge,private rent,30.7
-Richmond upon Thames,own,30.4
-Richmond upon Thames,mortgage,32.7
-Richmond upon Thames,social rent,12.1
-Richmond upon Thames,private rent,24.8
-Southwark,own,10.6
-Southwark,mortgage,20.7
-Southwark,social rent,39.7
-Southwark,private rent,29
-Sutton,own,28.4
-Sutton,mortgage,37.1
-Sutton,social rent,14.2
-Sutton,private rent,20.3
-Tower Hamlets,own,7.8
-Tower Hamlets,mortgage,17.9
-Tower Hamlets,social rent,35.9
-Tower Hamlets,private rent,38.4
-Waltham Forest,own,20.2
-Waltham Forest,mortgage,30.4
-Waltham Forest,social rent,21.5
-Waltham Forest,private rent,27.9
-Wandsworth,own,17.8
-Wandsworth,mortgage,26.5
-Wandsworth,social rent,19.3
-Wandsworth,private rent,36.4
-Westminster,own,16
-Westminster,mortgage,12.1
-Westminster,social rent,28.3
+area,category,percentage
+Barking and Dagenham,own,15.1
+Barking and Dagenham,mortgage,29
+Barking and Dagenham,social rent,31.5
+Barking and Dagenham,private rent,24.4
+Barnet,own,26.2
+Barnet,mortgage,27.5
+Barnet,social rent,13.5
+Barnet,private rent,32.8
+Bexley,own,32.7
+Bexley,mortgage,37.2
+Bexley,social rent,14.7
+Bexley,private rent,15.4
+Brent,own,20.2
+Brent,mortgage,20.2
+Brent,social rent,23.5
+Brent,private rent,36.2
+Bromley,own,33
+Bromley,mortgage,36.4
+Bromley,social rent,13.2
+Bromley,private rent,17.5
+Camden,own,15.9
+Camden,mortgage,14.5
+Camden,social rent,33.7
+Camden,private rent,35.9
+Croydon,own,24.2
+Croydon,mortgage,31.9
+Croydon,social rent,17.9
+Croydon,private rent,26
+Ealing,own,22.7
+Ealing,mortgage,25.6
+Ealing,social rent,17.5
+Ealing,private rent,34.3
+Enfield,own,26.2
+Enfield,mortgage,27.2
+Enfield,social rent,17
+Enfield,private rent,29.5
+Greenwich,own,16.2
+Greenwich,mortgage,27.1
+Greenwich,social rent,31
+Greenwich,private rent,25.7
+Hackney,own,9.7
+Hackney,mortgage,17.4
+Hackney,social rent,40.5
+Hackney,private rent,32.4
+Hammersmith and Fulham,own,15.4
+Hammersmith and Fulham,mortgage,18.2
+Hammersmith and Fulham,social rent,29.8
+Hammersmith and Fulham,private rent,36.6
+Haringey,own,17.3
+Haringey,mortgage,21.6
+Haringey,social rent,25.2
+Haringey,private rent,35.9
+Harrow,own,30.1
+Harrow,mortgage,29.8
+Harrow,social rent,10.4
+Harrow,private rent,29.7
+Havering,own,34.5
+Havering,mortgage,36
+Havering,social rent,13.6
+Havering,private rent,15.9
+Hillingdon,own,26.5
+Hillingdon,mortgage,31.3
+Hillingdon,social rent,16.1
+Hillingdon,private rent,26
+Hounslow,own,21.1
+Hounslow,mortgage,26.7
+Hounslow,social rent,21
+Hounslow,private rent,31.2
+Islington,own,11.6
+Islington,mortgage,16.8
+Islington,social rent,40.2
+Islington,private rent,31.5
+Kensington and Chelsea,own,19.9
+Kensington and Chelsea,mortgage,12.8
+Kensington and Chelsea,social rent,27.6
+Kensington and Chelsea,private rent,39.8
+Kingston upon Thames,own,28.2
+Kingston upon Thames,mortgage,33.3
+Kingston upon Thames,social rent,11
+Kingston upon Thames,private rent,27.4
+Lambeth,own,12
+Lambeth,mortgage,22.8
+Lambeth,social rent,33.6
+Lambeth,private rent,31.6
+Lewisham,own,15.4
+Lewisham,mortgage,28
+Lewisham,social rent,29.2
+Lewisham,private rent,27.3
+Merton,own,25.3
+Merton,mortgage,31.4
+Merton,social rent,14.2
+Merton,private rent,29.1
+Newham,own,12.7
+Newham,mortgage,20.5
+Newham,social rent,28
+Newham,private rent,38.8
+Redbridge,own,27
+Redbridge,mortgage,31.1
+Redbridge,social rent,11.3
+Redbridge,private rent,30.7
+Richmond upon Thames,own,30.4
+Richmond upon Thames,mortgage,32.7
+Richmond upon Thames,social rent,12.1
+Richmond upon Thames,private rent,24.8
+Southwark,own,10.6
+Southwark,mortgage,20.7
+Southwark,social rent,39.7
+Southwark,private rent,29
+Sutton,own,28.4
+Sutton,mortgage,37.1
+Sutton,social rent,14.2
+Sutton,private rent,20.3
+Tower Hamlets,own,7.8
+Tower Hamlets,mortgage,17.9
+Tower Hamlets,social rent,35.9
+Tower Hamlets,private rent,38.4
+Waltham Forest,own,20.2
+Waltham Forest,mortgage,30.4
+Waltham Forest,social rent,21.5
+Waltham Forest,private rent,27.9
+Wandsworth,own,17.8
+Wandsworth,mortgage,26.5
+Wandsworth,social rent,19.3
+Wandsworth,private rent,36.4
+Westminster,own,16
+Westminster,mortgage,12.1
+Westminster,social rent,28.3
 Westminster,private rent,43.6
